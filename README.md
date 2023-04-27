@@ -12,7 +12,7 @@
 
 ## Technologies & Tools
 <img src="https://img.shields.io/badge/Python-Blue?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Code-Python-plastic-red?style=plastic&logo=visualstudiocode">
+<img src="https://img.shields.io/badge/code-Python-blue?logo=visualstudiocode">
 
 <!--
 **ohiju/ohiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
