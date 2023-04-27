@@ -5,7 +5,7 @@
 
 - ✨ I have experience in several Computer Vision, Natural Language Processing Projects
 
-
+<br>
 
 <!-- ## Socials
 <div align="center">
