@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Front-end, Back-end Projects. 
 
-- ✨ I have experience several Computer Vision, Natural Language Processing Projects
+- ✨ I have experience in several Computer Vision, Natural Language Processing Projects
 
 <br>
 
