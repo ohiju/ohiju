@@ -15,6 +15,10 @@
 
 ## Technologies & Tools
 <div align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows">
+  <img src="https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu">
+  <img src="https://img.shields.io/badge/OS-RaspberryPi-blue?logo=raspberrypi">
+  <br>
   <img src="https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript">
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python">
   <img src="https://img.shields.io/badge/Code-React-blue?logo=react">
