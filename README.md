@@ -9,7 +9,7 @@
 
 ## Socials
 <div align="center">
-  [Github](https://github.com/ohiju)
+  [Github] (https://github.com/ohiju)
 </div>
 <br>
 
