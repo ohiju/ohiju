@@ -7,11 +7,10 @@
 
 
 
-## Socials
+<!-- ## Socials
 <div align="center">
-  [Github] (https://github.com/ohiju)
 </div>
-<br>
+<br> -->
 
 ## Technologies & Tools
 <div align="center">
