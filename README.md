@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Code-C++-blue?logo=cplusplus">
   <br>
   <img src="https://img.shields.io/badge/Editor-VS Code-blue?logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/Editor-Colab-blue?logo=googlecolab">
+
   <br>
   <img src="https://img.shields.io/badge/Tools-Git-blue?logo=git">
   <img src="https://img.shields.io/badge/Tools-Chrome-blue">
