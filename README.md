@@ -36,6 +36,18 @@
   
 </div>
 
+<br>
+<br>
+
+## Stats
+![ohiju's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohiju&show_icons=true&theme=transparent)
+
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohiju&layout=donut-vertical)](https://github.com/ohiju/github-readme-stats)
+
+
+
 <!--
 **ohiju/ohiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
